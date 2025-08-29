@@ -1,2 +1,2 @@
 # Auditory-Game
-React-based implementation of the GoodDesignsForAll auditory game
+This project is a React-based auditory game. Just testing a real git change.
